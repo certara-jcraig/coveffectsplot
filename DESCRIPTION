@@ -5,6 +5,8 @@ Authors@R: c(
     person("Samer", "Mouksassi", email = "samermouksassi@gmail.com",
       role = c("aut", "cre"),comment = c(ORCID = "https://orcid.org/0000-0002-7152-6654")),
     person("Dean", "Attali", email = "daattali@gmail.com",
+      role = c("ctb")),
+    person("James", "Craig", email = "james.craig@certara.com",
       role = c("ctb"))
     )
 Description: Produce forest plots to visualize covariate effects using either
